@@ -1,6 +1,11 @@
 # 🎬 Movie Recommender System
 
 An intelligent recommendation system that suggests movies based on user preferences and similarity analysis. This project helps users discover new movies quickly using machine learning techniques and an interactive user interface.
+📸 Screenshots
+[Home Page](https://drive.google.com/file/d/1Kxf3RYQEcqw-gs0ykD1H8KQcnBbm7n_3/view?usp=sharing))
+
+🎬 Demo Video
+[▶ Watch Demo Video](https://drive.google.com/file/d/1AtDLH9hJvzQjTtGC9Ln8YWBckaQDeubo/view?usp=sharing)
 
 ## 📌 Project Overview
 
