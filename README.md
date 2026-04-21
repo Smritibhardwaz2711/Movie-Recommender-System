@@ -5,7 +5,8 @@ An intelligent recommendation system that suggests movies based on user preferen
 ## Home Page
 
 ![Home Page](Screenshot%202026-04-21%20130117.png)
-
+![Result Screenshot](image-name.png)
+![Result Screenshot](image-name.png)
 🎬 Demo Video
 [▶ Watch Demo Video](https://drive.google.com/file/d/1AtDLH9hJvzQjTtGC9Ln8YWBckaQDeubo/view?usp=sharing)
 
