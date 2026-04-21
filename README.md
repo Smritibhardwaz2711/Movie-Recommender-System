@@ -4,9 +4,10 @@ An intelligent recommendation system that suggests movies based on user preferen
 📸 Screenshots
 ## Home Page
 
-![Home Page](Screenshot%202026-04-21%20130117.png)
-![Result Screenshot](image-name.png)
-![Result Screenshot](image-name.png)
+![Home Page](https://github.com/Smritibhardwaz2711/Movie-Recommender-System/blob/1afbae1cbdc87f88a3f731e455a53418a154ec24/Screenshot%202026-04-21%20130117.png)
+![Result ](https://github.com/Smritibhardwaz2711/Movie-Recommender-System/blob/1afbae1cbdc87f88a3f731e455a53418a154ec24/Screenshot%202026-04-21%20130145.png))
+![Result ](https://github.com/Smritibhardwaz2711/Movie-Recommender-System/blob/1afbae1cbdc87f88a3f731e455a53418a154ec24/Screenshot%202026-04-21%20130246.png))
+![Result ](https://github.com/Smritibhardwaz2711/Movie-Recommender-System/blob/1afbae1cbdc87f88a3f731e455a53418a154ec24/Screenshot%202026-04-21%20130201.png)
 🎬 Demo Video
 [▶ Watch Demo Video](https://drive.google.com/file/d/1AtDLH9hJvzQjTtGC9Ln8YWBckaQDeubo/view?usp=sharing)
 
